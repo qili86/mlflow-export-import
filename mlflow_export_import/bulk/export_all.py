@@ -13,7 +13,7 @@ from mlflow_export_import.common.click_options import (
     opt_stages,
     opt_export_permissions,
     opt_run_start_time,
-    opt_runs_until,
+    opt_until,
     opt_export_deleted_runs,
     opt_export_version_model,
     opt_notebook_formats,
